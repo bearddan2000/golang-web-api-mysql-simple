@@ -1,4 +1,4 @@
-# golang-web-api-postgres-simple
+# golang-web-api-mysql-simple
 
 ## Description
 This returns a data dump of the table `pop`
